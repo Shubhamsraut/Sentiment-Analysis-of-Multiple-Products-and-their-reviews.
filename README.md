@@ -5,7 +5,7 @@ Data set contains 4 different columns as:
 3) Product Type.
 4) Sentiment.
 
-Product type   :  Ranging from 0-9
+Product type   :  Ranging from 0-9;
 Sentiment type : 0-3
 
 Sentiment Analysis is performed on the specific dataset containing 9 different products and their reviews/description.
